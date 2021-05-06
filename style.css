@@ -1,0 +1,12 @@
+body{
+    background-color: cornflowerblue;
+    color: white;
+}
+.heading{
+    width:80%;
+    font-size: 22px;
+    font-variant:small-caps;
+}
+.name_of_objects,#result_object_accuracy,#result_object_name{
+    color:mediumblue;
+}
